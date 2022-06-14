@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "889143392776",
+    "firebase_url": "https://my-van-4e653-default-rtdb.firebaseio.com",
+    "project_id": "my-van-4e653",
+    "storage_bucket": "my-van-4e653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889143392776:android:d219004cf30f5e1f2c6fbd",
+        "android_client_info": {
+          "package_name": "com.ian.myvan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889143392776-vg3teh333bt1caqcjsgigmull3csbp19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu3_zaN0nsA_vqjP2y6tnF4G1087JQ6bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889143392776-vg3teh333bt1caqcjsgigmull3csbp19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
